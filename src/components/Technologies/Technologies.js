@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've had the pleasure of working with a range a technologies in the web development world.
-      From Back-end To Design. I am currently Studying Javascript, ReactJS, Data Structures and Algorithms 
+      From Back-end To Design. I am currently Studying The MERN Stack, ReactJS, Data Structures and Algorithms 
     </SectionText>
     <List>
       <ListItem>
@@ -20,7 +20,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            HTML CSS JavaScript React.js Django Flask 
+            HTML CSS JavaScript React.js Next.js Django Flask 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +44,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Material UI
+            UI/UX Materials Chakra
           </ListParagraph>
         </ListContainer>
       </ListItem>
