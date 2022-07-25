@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 1, text: 'Completed Coding Dojo Python Bootcamp'},
-  { number: 25, text: 'Projects of Multiple Technologies', },
+  { number: 35, text: 'Projects of Multiple Technologies', },
   
 ];
 

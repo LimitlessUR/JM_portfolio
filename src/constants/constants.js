@@ -18,6 +18,15 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'React Exercise App APIs',
+    description: "Given my experience in the fitness industry, this app was a lot of fun to program. Here, our user can search through the exercisedb API for over 1300 different exercises to add to thier routine. Try it out yourself",
+    image: '/images/5.png',
+    tags: ['Reactjs', 'API', 'Deployed'],
+    source: 'https://github.com/LimitlessUR/Real_Estate_nextjsAPI',
+    visit: 'https://dev5303.d2s0x0njky1gl5.amplifyapp.com/',
+    id: 3,
+  },
+  {
     title: 'Django Todo list',
     description: "Here we have a simple Django Todo list application that enables users to add to a list as well as delete from the list. Here I learned the fundametnals of Django framework and got to utilized some simple Python logic to build this fun, easy to use application.",
       image: '/images/3.jpg',
@@ -36,10 +45,10 @@ export const projects = [
     id: 3,
   },
   {
-    title: 'Currently working on API, and Reactjs Projects',
+    title: 'Currently working on the MERN Stack, and Reactjs Projects',
     description: "So many fun projects, so little time! Check out my other projects throught the Code link below",
     image: '/images/codepic.jpg',
-    tags: ['APIs', 'Reactjs'],
+    tags: ['APIs', 'Reactjs', 'Data Structure and Algorithms'],
     source: 'https://github.com/LimitlessUR',
     visit: 'https://github.com/LimitlessUR',
     id: 3,
