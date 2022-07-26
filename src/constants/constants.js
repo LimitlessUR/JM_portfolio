@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Message Wall Flask_App',
+    title: 'Message Wall Flask_App SQL',
     description: "Message wall style application that enables users to post, like, and delete messages. Login and registration with Bcrypt password encryption. Link to code source, and video demo below.",
       image: '/images/1.png',
       tags: ['Python', 'Flask', 'HTML', 'SQL', 'Bootstrap'],
@@ -56,12 +56,12 @@ export const projects = [
   },
   
   {
-    title: 'Django Todo list',
-    description: "Here we have a simple Django Todo list application that enables our user to add to a list as well as delete from the list. Here I learned the fundametnals of Django framework and got to utilized some simple Python logic to build this fun, easy to use application.",
-      image: '/images/3.jpg',
-      tags: ['Django', 'Python', 'HTML'],
-    source: 'https://github.com/LimitlessUR/django-todo',
-    visit: 'https://github.com/LimitlessUR/django-todo',
+    title: 'Live React Todo List',
+    description: "Here we have a React Todo list application that enables our user to add, edit and delete from their todo list. Our user can now plan their day with ease, and effeciency.",
+      image: '/images/9.png',
+      tags: ['React', 'Javascript', 'CSS', 'Try it out via Source Link'],
+    source: 'https://dev7712.d3mxkjcetox33p.amplifyapp.com',
+    visit: 'https://github.com/LimitlessUR/React-Todo-app',
     id: 2,
   },
   
@@ -75,10 +75,10 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Currently working on the MERN Stack, and Reactjs Projects',
+    title: 'Currently working on the MERN Stack, and Python Pygame Platformer Projects',
     description: "So many fun projects, so little time! Check out my other projects throught the Code link below",
     image: '/images/codepic.jpg',
-    tags: ['APIs', 'Reactjs', 'Data Structure and Algorithms'],
+    tags: ['Python', 'ReactJS', 'Data Structure and Algorithms'],
     source: 'https://github.com/LimitlessUR',
     visit: 'https://github.com/LimitlessUR',
     id: 3,
