@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Live React UI/UX Restuarant Website',
-    description:"During this project I was introduced to the fundementals of UI/UX design, React file and folder structure for a highly aesthetic website, and how to form media queries for satisfactory responsiveness covering almost all devices ",
-    image: '/images/6.png',
-    tags: ['ReactJS', 'UI/UX', 'CSS', 'Visit via Source button'],
-    source: 'https://master.d1qddam9popti2.amplifyapp.com',
-    visit: 'https://github.com/LimitlessUR/Restaurant_UI-UX_Website',
+    title: 'Live React Google Map Restuarant API',
+    description:"This app enables our user to search any location and get resturants, attractions, and hotels in that area. It also includes detailed information cards to give our user as much information as possible about each establishment",
+    image: '/images/7.png',
+    tags: ['ReactJS', 'APIs', 'CSS', 'Visit via Source button'],
+    source: 'https://dev8867.d39nqmjb3agqf8.amplifyapp.com',
+    visit: 'https://github.com/LimitlessUR/Google_API_React',
     id: 1,
   },
   {
@@ -35,7 +35,25 @@ export const projects = [
     visit: 'https://github.com/LimitlessUR/Python_SpaceShooter',
     id: 3,
   },
+  {
+    title: 'Live React UI/UX Restuarant Website',
+    description:"During this project I was introduced to the fundementals of UI/UX design, React file and folder structure for a highly aesthetic website, and how to form media queries for satisfactory responsiveness covering almost all devices ",
+    image: '/images/6.png',
+    tags: ['ReactJS', 'UI/UX', 'CSS', 'Visit via Source button'],
+    source: 'https://master.d1qddam9popti2.amplifyapp.com',
+    visit: 'https://github.com/LimitlessUR/Restaurant_UI-UX_Website',
+    id: 1,
+  },
   
+  {
+    title: 'Next.js Real Estate API App ',
+    description:"This React Real Estate App allows our user to search and filter real estate data via the bayut API. Our user can choose to rent or buy and then use our filter feature to further customize their search",
+    image: '/images/8.png',
+    tags: ['ReactJS', 'next.js', 'CSS', 'APIs' ],
+    source: 'https://github.com/LimitlessUR/Real_Estate_nextjsAPI',
+    visit: 'https://github.com/LimitlessUR/Real_Estate_nextjsAPI',
+    id: 1,
+  },
   
   {
     title: 'Django Todo list',
@@ -51,7 +69,7 @@ export const projects = [
     title: 'Live React AI Website',
     description:"During completetion of this project I was introduced to React functional components and their reusability, React file and folder structure, Fundamentals of the CSS BEM Model, and other react fundamentals.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript', 'CSS', 'Visit via Source button' ],
+    tags: ['React', 'UI/UX', 'CSS', 'Visit via Source button' ],
     source: 'https://dev1734.d2m9mq0vf8kq5e.amplifyapp.com',
     visit: 'https://github.com/LimitlessUR/React_AI_Website',
     id: 1,
