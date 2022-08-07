@@ -56,7 +56,7 @@ export const projects = [
   },
   
   {
-    title: 'Live React Todo List',
+    title: 'Live React Planner App',
     description: "Here we have a React Todo list application that enables our user to add, edit and delete from their todo list. Our user can now plan their day with ease, and effeciency.",
       image: '/images/9.png',
       tags: ['React', 'Javascript', 'CSS', 'Try it out via Source Link'],
@@ -75,10 +75,10 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Currently working on the MERN Stack, and Python Pygame Platformer Projects',
+    title: 'Currently working on the React JS, Open Source Contribution, and Python Pygame Platformer Project',
     description: "So many fun projects, so little time! Check out my other projects throught the Code link below",
     image: '/images/codepic.jpg',
-    tags: ['Python', 'ReactJS', 'Data Structure and Algorithms'],
+    tags: ['Python', 'ReactJS', ' Algorithms', 'Open Source Contribution'],
     source: 'https://github.com/LimitlessUR',
     visit: 'https://github.com/LimitlessUR',
     id: 3,
