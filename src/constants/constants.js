@@ -56,12 +56,12 @@ export const projects = [
   },
   
   {
-    title: 'Live React Planner App',
-    description: "Here we have a React Todo list application that enables our user to add, edit and delete from their todo list. Our user can now plan their day with ease, and effeciency.",
+    title: 'Tensorflow Image Classifier',
+    description: "Here our user can upload an image, and tensor flow will process the image and give back its top three identifications.",
       image: '/images/9.png',
-      tags: ['React', 'Javascript', 'CSS', 'Try it out via Source Link'],
-    source: 'https://dev7712.d3mxkjcetox33p.amplifyapp.com',
-    visit: 'https://github.com/LimitlessUR/React-Todo-app',
+      tags: ['React.js', 'Tensorflow', 'Visit via Source button'],
+    source: 'https://dev.d30x81m7ehudnh.amplifyapp.com',
+    visit: 'https://github.com/LimitlessUR/tensorflow_img_classification',
     id: 2,
   },
   
@@ -75,10 +75,10 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Currently working on the React JS, Open Source Contribution, and Python Pygame Platformer Project',
-    description: "So many fun projects, so little time! Check out my other projects throught the Code link below",
+    title: 'Currently working on AWS Cloud Practitioner, and SQL DBA certifications.',
+    description: "So many cool technologies, so little time! Check out my other projects through the Code link below",
     image: '/images/codepic.jpg',
-    tags: ['Python', 'ReactJS', ' Algorithms', 'Open Source Contribution'],
+    tags: ['AWS Cloud, SQL DBA'],
     source: 'https://github.com/LimitlessUR',
     visit: 'https://github.com/LimitlessUR',
     id: 3,
@@ -88,6 +88,6 @@ export const projects = [
 export const TimeLineData = [
   { year: 2019, text: 'Worked as Metabolic Tech Specialist at Lifetime Fitness', },
   { year: 2020, text: 'Started as Ecommerce supervisor at Wholefoods', },
-  { year: 2021, text: 'Began coding journey with Coding Dojo', },
-  { year: 2022, text: 'Actively pursuing a career in Software Development and a deeper understanding of the coding world', },
+  { year: 2021, text: 'Enrolled in Coding Dojo to learn Full-Stack Development', },
+  { year: 2022, text: 'Gaining valuable experience as a Full-Stack Software Engineer with startup Geolumina. Part-time contractor seeking fulltime position', },
 ];

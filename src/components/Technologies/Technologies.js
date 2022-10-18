@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node Python MySQL Sqlitedb 
+            Node.js Python SQL Sqlitedb Mongodb Tensorflow.js APIs
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,7 +44,7 @@ const Technologies = () =>  (
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
             Experience with <br />
-            UI/UX Materials Chakra
+            UI/UX Materials Chakra Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>
